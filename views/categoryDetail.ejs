@@ -1,0 +1,33 @@
+<%- include('layout/header') %>
+
+  <main>
+    <h2 class="productHead">
+      <%= categoryName.toUpperCase() %>
+    </h2>
+    <ul class="product-ul">
+      <% categoryItems.forEach(item=> { %>
+
+        <li>
+
+          <a href="/categories/<%=categoryName%>/<%= item.id%>">
+            <div>
+              <img class="products-thumbnail" src="<%= item.image %>" alt="<%= item.name %>">
+
+              <p class="prodName">
+                <%= item.name %>
+              </p>
+              <p class="prodPrice">
+                <%=item.price %>:-
+              </p>
+            </div>
+          </a>
+        </li>
+
+        <% }); %>
+
+
+    </ul>
+  </main>
+
+
+  <%- include('layout/footer') %>

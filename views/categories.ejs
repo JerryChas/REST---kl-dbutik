@@ -1,0 +1,21 @@
+<%- include('layout/header') %>
+
+
+
+  <main class="categoryHolder">
+    <h2 class="categoryHead">Our Categories</h2>
+
+
+    <ul class="categoryList">
+      <% for(let i=0; i < products.length; i++){ %>
+        <li>
+          <a href="/categories/<%= products[i].category %>">
+            <div class="categoryN">
+              <%= products[i].category.toUpperCase() %>
+            </div>
+          </a>
+        </li>
+        <%}%>
+    </ul>
+  </main>
+  <%- include('layout/footer') %>

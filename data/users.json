@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Andersson",
+    "email": "alice.andersson@example.com",
+    "password": "password123"
+  },
+  {
+    "id": 2,
+    "name": "Björn Berg",
+    "email": "bjorn.berg@example.com",
+    "password": "securepassword"
+  },
+  {
+    "id": 3,
+    "name": "Clara Carlsson",
+    "email": "clara.carlsson@example.com",
+    "password": "mypassword"
+  },
+  {
+    "id": 4,
+    "name": "David Dahl",
+    "email": "david.dahl@example.com",
+    "password": "password456"
+  },
+  {
+    "id": 5,
+    "name": "Eva Eriksson",
+    "email": "eva.eriksson@example.com",
+    "password": "password789"
+  }
+]

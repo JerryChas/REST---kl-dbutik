@@ -1,0 +1,22 @@
+<%- include('layout/header') %>
+
+  <main>
+    <h2 class="homeHead">Featured Products</h2>
+    <div class="product-ul">
+      <% featuredProducts.forEach(product=> { %>
+        <div class="product">
+          <h3>
+            <%= product.name %>
+          </h3>
+          <img src="<%=product.image %>" alt="">
+          <p>
+            <%= product.description %>
+          </p>
+          <p>Price: <%= product.price %>
+          </p>
+        </div>
+        <% }); %>
+    </div>
+  </main>
+
+  <%- include('layout/footer') %>

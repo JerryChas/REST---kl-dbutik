@@ -1,0 +1,35 @@
+<%- include('layout/header') %>
+
+  <main>
+
+
+    <div class="product-container">
+      <h2>
+        <%= product.name %>
+
+      </h2>
+
+
+      <img class="product-img" src="<%= product.image %>" alt="<%= product.name %>">
+
+      <p class="prodPrice">
+        <%=product.price%>:-
+      </p>
+
+      <p>
+        <%=product.description%>
+      </p>
+
+      <p>Sizes: <%=product.size%>
+      </p>
+
+      <p>
+        Brand: <%=product.brand%>
+      </p>
+    </div>
+
+
+  </main>
+
+
+  <%- include('layout/footer') %>

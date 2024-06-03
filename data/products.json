@@ -1,0 +1,397 @@
+[
+  {
+    "category": "t-Shirts",
+    "items": [
+      {
+        "id": 1,
+        "name": "Basic White T-Shirt",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "White",
+        "price": 99.00,
+        "image": "/images/white.jpg",
+        "brand": "Classic Apparel",
+        "description": "En klassisk vit t-shirt från Classic Apparel. Perfekt för vardagsbruk med en tidlös design som aldrig går ur mode. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 2,
+        "name": "Graphic T-Shirt",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Grey",
+        "price": 129.00,
+        "image": "/images/graphic.jpg",
+        "brand": "Urban Style",
+        "description": "En trendig grå t-shirt från Urban Style, prydd med ett unikt grafiskt tryck. Idealisk för att uttrycka din personliga stil. Finns i storlekarna S till XL."
+      },
+      {
+        "id": 3,
+        "name": "V-Neck T-Shirt",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Blue",
+        "price": 109.00,
+        "image": "/images/vneck.jpg",
+        "brand": "Trendsetters",
+        "description": "En stilren blå v-ringad t-shirt från Trendsetters. Ger en modern och avslappnad look. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 4,
+        "name": "Striped T-Shirt",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Red/White",
+        "price": 119.00,
+        "image": "/images/striped.jpg",
+        "brand": "Modern Attire",
+        "description": "En röd- och vitrandig t-shirt från Modern Attire. Ger en maritim och fräsch känsla. Finns i storlekarna S till XL."
+      },
+      {
+        "id": 5,
+        "name": "Pocket T-Shirt",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Grey",
+        "price": 99.00,
+        "image": "/images/graypocket.jpg",
+        "brand": "Casual Line",
+        "description": "En enkel och bekväm grå t-shirt med bröstficka från Casual Line. Ett perfekt basplagg för vardagsgarderoben. Tillgänglig i storlekarna S till XL."
+      }
+    ]
+  },
+  {
+    "category": "sweaters",
+    "items": [
+      {
+        "id": 6,
+        "name": "Crew Neck Sweater",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Navy",
+        "price": 199.00,
+        "image": "/images/crewNeckNavy.png",
+        "brand": "Winter Wear",
+        "description": "En klassisk marinblå tröja med rund hals från Winter Wear. Perfekt för kalla dagar. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 7,
+        "name": "Hooded Sweater",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Black",
+        "price": 249.00,
+        "image": "/images/hoodedBlack.png",
+        "brand": "Street Gear",
+        "description": "En svart hoodie från Street Gear som kombinerar stil och komfort. Perfekt för en avslappnad look. Finns i storlekarna S till XL."
+      },
+      {
+        "id": 8,
+        "name": "Zip-Up Sweater",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Green",
+        "price": 229.00,
+        "image": "/images/zipUpGreen.png",
+        "brand": "Outdoorsy",
+        "description": "En grön zip-up tröja från Outdoorsy, idealisk för lager-på-lager looken. Praktisk och stilren. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 9,
+        "name": "Knitted Sweater",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Beige",
+        "price": 269.00,
+        "image": "/images/knittedBeige.png",
+        "brand": "Cozy Knits",
+        "description": "En beige stickad tröja från Cozy Knits. Perfekt för att hålla dig varm och snygg under kyliga dagar. Finns i storlekarna S till XL."
+      },
+      {
+        "id": 10,
+        "name": "Wool Sweater",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Grey",
+        "price": 299.00,
+        "image": "/images/woolGrey.png",
+        "brand": "Luxury Layers",
+        "description": "En grå ulltröja från Luxury Layers, som erbjuder både värme och elegans. Idealisk för kalla vinterdagar. Tillgänglig i storlekarna S till XL."
+      }
+    ]
+  },
+  {
+    "category": "socks",
+    "items": [
+      {
+        "id": 11,
+        "name": "Ankle Socks",
+        "size": [
+          "S",
+          "M",
+          "L"
+        ],
+        "color": "White",
+        "price": 39.00,
+        "image": "/images/ankle_socks.jpg",
+        "brand": "Foot Comfort",
+        "description": "Vita ankelsockor från Foot Comfort, perfekta för vardagligt bruk och sportaktiviteter. Finns i storlekarna S till L."
+      },
+      {
+        "id": 12,
+        "name": "Crew Socks",
+        "size": [
+          "S",
+          "M",
+          "L"
+        ],
+        "color": "Black",
+        "price": 49.00,
+        "image": "/images/crew_socks.jpg",
+        "brand": "Everyday Essentials",
+        "description": "Svarta crew socks från Everyday Essentials, idealiska för daglig användning. Bekväma och hållbara. Finns i storlekarna S till L."
+      },
+      {
+        "id": 13,
+        "name": "Patterned Socks",
+        "size": [
+          "S",
+          "M",
+          "L"
+        ],
+        "color": "Multicolor",
+        "price": 59.00,
+        "image": "/images/patterned_socks.jpg",
+        "brand": "Fashion Feet",
+        "description": "Mönstrade strumpor från Fashion Feet som tillför färg och stil till din outfit. Tillgängliga i storlekarna S till L."
+      },
+      {
+        "id": 14,
+        "name": "Wool Socks",
+        "size": [
+          "S",
+          "M",
+          "L"
+        ],
+        "color": "Grey",
+        "price": 69.00,
+        "image": "/images/wool_socks.jpg",
+        "brand": "Warm Soles",
+        "description": "Grå ullstrumpor från Warm Soles, designade för att hålla dina fötter varma under kalla dagar. Finns i storlekarna S till L."
+      },
+      {
+        "id": 15,
+        "name": "Sport Socks",
+        "size": [
+          "S",
+          "M",
+          "L"
+        ],
+        "color": "White",
+        "price": 49.00,
+        "image": "/images/sport_socks.jpg",
+        "brand": "Athlete's Choice",
+        "description": "Vita sportstrumpor från Athlete's Choice, perfekta för träning och sportaktiviteter. Tillgängliga i storlekarna S till L."
+      }
+    ]
+  },
+  {
+    "category": "jackets",
+    "items": [
+      {
+        "id": 16,
+        "name": "Denim Jacket",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Blue",
+        "price": 399.00,
+        "image": "/images/denim-jacket-blue.jpeg",
+        "brand": "Denim Deluxe",
+        "description": "En blå denimjacka från Denim Deluxe, perfekt för en avslappnad och cool stil. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 17,
+        "name": "Leather Jacket",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Black",
+        "price": 699.00,
+        "image": "/images/Leather-Jacket-black.jpg",
+        "brand": "Rockstar Apparel",
+        "description": "En svart läderjacka från Rockstar Apparel, som ger en edgy och rockig look. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 18,
+        "name": "Bomber Jacket",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Green",
+        "price": 499.00,
+        "image": "/images/Bomber-Jacket-green.png",
+        "brand": "Aviator's Choice",
+        "description": "En grön bomberjacka från Aviator's Choice, inspirerad av klassiska flygjackor. Perfekt för en trendig look. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 19,
+        "name": "Parka Jacket",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Olive",
+        "price": 599.00,
+        "image": "/images/Parka-Jacket-Olive.png",
+        "brand": "Winter Warrior",
+        "description": "En olivgrön parkas från Winter Warrior, idealisk för kalla och blåsiga dagar. Tillgänglig i storlekarna S till XL."
+      },
+      {
+        "id": 20,
+        "name": "Windbreaker Jacket",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Red",
+        "price": 349.00,
+        "image": "/images/Windbreaker-jacket-red.png",
+        "brand": "Breezy Gear",
+        "description": "En röd vindjacka från Breezy Gear, perfekt för blåsiga och regniga dagar. Tillgänglig i storlekarna S till XL."
+      }
+    ]
+  },
+  {
+    "category": "pants",
+    "items": [
+      {
+        "id": 21,
+        "name": "Jeans",
+        "size": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "color": "Blue",
+        "price": 299.00,
+        "image": "/images/jeansBlue.png",
+        "brand": "Denim Co.",
+        "description": "Blå jeans från Denim Co., en klassiker för alla tillfällen. Tillgängliga i storlekarna 30 till 36."
+      },
+      {
+        "id": 22,
+        "name": "Chinos",
+        "size": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "color": "Khaki",
+        "price": 249.00,
+        "image": "/images/chinosKhaki.png",
+        "brand": "Smart Casual",
+        "description": "Khakifärgade chinos från Smart Casual, perfekta för både vardag och arbete. Tillgängliga i storlekarna 30 till 36."
+      },
+      {
+        "id": 23,
+        "name": "Sweatpants",
+        "size": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "color": "Grey",
+        "price": 199.00,
+        "image": "/images/sweatpantsGrey.png",
+        "brand": "Comfy Wear",
+        "description": "Grå mjukisbyxor från Comfy Wear, idealiska för avslappnade dagar hemma eller på gymmet. Finns i storlekarna S till XL."
+      },
+      {
+        "id": 24,
+        "name": "Cargo Pants",
+        "size": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "color": "Green",
+        "price": 279.00,
+        "image": "/images/cargoGreen.png",
+        "brand": "Utility Fashion",
+        "description": "Gröna cargobyxor från Utility Fashion, funktionella och trendiga med flera fickor. Tillgängliga i storlekarna 30 till 36."
+      },
+      {
+        "id": 25,
+        "name": "Dress Pants",
+        "size": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "color": "Black",
+        "price": 349.00,
+        "image": "/images/dresspantsBlack.png",
+        "brand": "Formal Attire",
+        "description": "Svarta dressbyxor från Formal Attire, perfekta för formella tillfällen. Tillgängliga i storlekarna 30 till 36."
+      }
+    ]
+  }
+]
